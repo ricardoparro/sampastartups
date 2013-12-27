@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SaoPauloStartups.DataLayer.ExternalRepository
 {
-    class TwitterRepository
+    public class TwitterRepository : BaseRepository
     {
     }
 }
